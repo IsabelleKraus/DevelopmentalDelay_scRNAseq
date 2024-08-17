@@ -6,7 +6,7 @@ Embryonic development is a highly coordinated process that can be disrupted in m
 ## Contents
 This repository contains R scripts for:
 - The analysis of annotated scRNA-seq data.
-- The benchmarking of three methods for the prediction of embryonic stages:
+- The benchmarking of three methods for the prediction of embryonic stages (E6.5 to E9.0):
   - PCA on cell type sompositions
   - Label Transfer using Seurat
   - LDA on stage-specific marker gene expression
